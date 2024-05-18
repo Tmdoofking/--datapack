@@ -1,0 +1,2 @@
+title @a title [{"text":"你走開!!","color":"red","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+give @a minecraft:stone_hoe{Damage:6900,display:{Name:"[{\"text\":\"走開喔\",\"color\":\"yellow\",\"bold\":true,\"italic\":true,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]"},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1},{id:"minecraft:knockback",lvl:30}]} 1

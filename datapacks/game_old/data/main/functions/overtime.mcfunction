@@ -1,0 +1,3 @@
+execute as @e[type=minecraft:wither_skeleton] at @s if score 時間 game matches 0..10 if entity @a[team=a,distance=..5,scores={death=0}] run scoreboard players set 時間 game 10
+execute as @e[type=minecraft:wither_skeleton] at @s if score 時間 game matches 0..10 if entity @a[team=a,distance=..5,scores={death=0}] run bossbar set minecraft:overtime players @a
+execute as @e[type=minecraft:wither_skeleton] at @s if score 時間 game matches 0..10 if entity @a[team=a,distance=..5,scores={death=0}] run bossbar set minecraft:overtime visible true

@@ -1,0 +1,2 @@
+give @a[scores={shop=27,money=15..}] stick{AttributeModifiers:[{Operation:0,Amount:0.2,UUIDLeast:1L,UUIDMost:1L,Slot:offhand,AttributeName:"generic.knockbackResistance",Name:"CBC"}],display:{Name:"[{\"text\":\"§6擊退棒棒\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]"},Enchantments:[{id:"minecraft:knockback",lvl:6}]} 1
+scoreboard players remove @a[scores={shop=27,money=15..}] money 15

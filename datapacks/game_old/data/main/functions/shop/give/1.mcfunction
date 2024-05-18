@@ -1,0 +1,2 @@
+give @a[scores={shop=1,money=25..}] iron_helmet{HideFlags:2,display:{Name:"[{\"text\":\"§6鐵製頭盔\"}]",Lore:["\"§6+100%盔甲值\"","\"§6+100%盔甲韌性\""]},AttributeModifiers:[{Slot:"head",AttributeName:"generic.armor",Name:"generic.armor",Amount:1,Operation:1,UUIDLeast:1579436230,UUIDMost:1579436230},{Slot:"head",AttributeName:"generic.armorToughness",Name:"generic.armorToughness",Amount:1,Operation:1,UUIDLeast:1579436229,UUIDMost:1579436229}]} 1
+scoreboard players remove @a[scores={shop=1,money=25..}] money 25

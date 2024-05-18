@@ -1,0 +1,2 @@
+summon minecraft:bat 12624 8 1032 {CustomName:"[{\"text\":\"§5病原體 (250$)\"}]",CustomNameVisible:1,Health:1f,Glowing:1,Attributes:[{Name:generic.maxHealth,Base:1f}],Tags:["money"]}
+schedule function main:summon/bat 300s

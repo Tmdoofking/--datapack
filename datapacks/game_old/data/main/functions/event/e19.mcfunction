@@ -1,0 +1,2 @@
+title @a title [{"text":"梅川伊芙的毒品","color":"dark_purple","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+effect give @a[gamemode=!spectator] minecraft:instant_health 1 20

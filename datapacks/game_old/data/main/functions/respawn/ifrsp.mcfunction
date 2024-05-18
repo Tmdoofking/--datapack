@@ -1,0 +1,2 @@
+execute if entity @a[scores={death=1..},team=a,distance=..2,x=12554,y=43,z=939] run function main:respawn/a
+execute if entity @a[scores={death=1..},team=d,distance=..2,x=12569,y=34,z=1014] run function main:respawn/d

@@ -1,0 +1,2 @@
+summon minecraft:creeper 12624 8 1032 {CustomName:"[{\"text\":\"§a易燃易爆炸 (50$)\"}]",CustomNameVisible:1,Fuse:100,ExplosionRadius:2,powered:1,Health:50f,Attributes:[{Name:generic.maxHealth,Base:50f},{Name:generic.movementSpeed,Base:0.35f}],Tags:["money"]}
+schedule function main:summon/creeper 50s

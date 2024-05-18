@@ -1,0 +1,2 @@
+summon minecraft:slime 12624 8 1032 {CustomName:"[{\"text\":\"§aCi萊姆 (3$)\"}]",CustomNameVisible:1,Size:6,Health:10f,Attributes:[{Name:generic.maxHealth,Base:10f}],Tags:["money"]}
+schedule function main:summon/slime 30s

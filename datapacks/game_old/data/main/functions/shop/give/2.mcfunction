@@ -1,0 +1,2 @@
+give @a[scores={shop=2,money=40..}] iron_chestplate{HideFlags:2,display:{Name:"[{\"text\":\"§6鐵製胸甲\"}]",Lore:["\"§6+8盔甲值\"","\"§6+6盔甲韌性\""]},AttributeModifiers:[{Slot:"chest",AttributeName:"generic.armor",Name:"generic.armor",Amount:8,Operation:0,UUIDLeast:1579438958,UUIDMost:1579438958},{Slot:"chest",AttributeName:"generic.armorToughness",Name:"generic.armorToughness",Amount:6,Operation:0,UUIDLeast:1579438957,UUIDMost:1579438957}]} 1
+scoreboard players remove @a[scores={shop=2,money=40..}] money 40

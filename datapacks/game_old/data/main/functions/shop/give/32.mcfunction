@@ -1,0 +1,2 @@
+give @a[scores={shop=32,money=60..}] iron_pickaxe{Damage:245,display:{Name:"[{\"text\":\"§6鐵鎬\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]"},HideFlags:1,CanDestroy:["minecraft:enchanting_table ","minecraft:end_stone"],Enchantments:[{id:"minecraft:vanishing_curse",lvl:1}]} 1
+scoreboard players remove @a[scores={shop=32,money=60..}] money 60

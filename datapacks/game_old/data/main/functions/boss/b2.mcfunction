@@ -1,0 +1,3 @@
+bossbar set minecraft:boss name "魔術師"
+execute in minecraft:the_end run summon minecraft:illusioner 0 10 0 {CustomName:"[{\"text\":\"魔術師\",\"color\":\"blue\",\"bold\":false,\"italic\":true,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]",Tags:["boss"],CustomNameVisible:1b,PersistenceRequired:1b,Health:200,Attributes:[{Name:"generic.maxHealth",Base:200}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{Enchantments:[{id:"minecraft:power",lvl:4},{id:"minecraft:flame",lvl:2}]}},{}]}
+bossbar set minecraft:boss max 200

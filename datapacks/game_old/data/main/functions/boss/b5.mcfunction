@@ -1,0 +1,4 @@
+bossbar set minecraft:boss name "永恆的巫師"
+execute in minecraft:the_end run summon minecraft:witch 0 10 0 {CustomName:"[{\"text\":\"永恆的巫師\",\"color\":\"dark_red\",\"bold\":false,\"italic\":true,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]",Tags:["boss"],CustomNameVisible:1b,PersistenceRequired:1b,Health:250,Attributes:[{Name:"generic.maxHealth",Base:500},{Name:"generic.followRange",Base:100}],HandItems:[{id:"minecraft:air",Count:1b},{}],ArmorItems:[{},{id:"minecraft:wooden_pickaxe",Count:1b,tag:{Enchantments:[{id:"minecraft:fire_aspect",lvl:1},{id:"minecraft:sharpness",lvl:6},{id:"minecraft:thorns",lvl:1},{id:"minecraft:knockback",lvl:4}]}},{},{}]}
+bossbar set minecraft:boss max 500
+effect give @e[type=minecraft:witch] minecraft:regeneration 99999 0 true

@@ -1,0 +1,3 @@
+execute if entity @a[scores={pot=1..}] run execute as @e[type=minecraft:armor_stand,tag=P,limit=1,sort=random] at @s run setblock ~ ~ ~ redstone_block
+execute if entity @a[scores={lw=1..}] run execute as @e[type=minecraft:armor_stand,tag=S,limit=1,sort=random] at @s run setblock ~ ~ ~ redstone_block
+execute if entity @a[scores={ms=1..}] run execute as @e[type=minecraft:armor_stand,tag=ms,limit=1,sort=random] at @s run setblock ~ ~ ~ redstone_block

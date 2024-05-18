@@ -1,0 +1,2 @@
+summon minecraft:turtle 12624 8 1032 {CustomName:"[{\"text\":\"§c龜龜 (15$)\"}]",CustomNameVisible:1,Health:15f,Attributes:[{Name:generic.maxHealth,Base:15f}],Tags:["money"]}
+schedule function main:summon/turtle 15s

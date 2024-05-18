@@ -1,0 +1,2 @@
+summon minecraft:mooshroom 12624 8 1032 {CustomName:"[{\"text\":\"§c牛牛 (10$)\"}]",CustomNameVisible:1,Health:15f,Attributes:[{Name:generic.maxHealth,Base:15f}],Tags:["money"]}
+schedule function main:summon/mooshroom 10s

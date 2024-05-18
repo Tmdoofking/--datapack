@@ -1,0 +1,1 @@
+schedule function main:shop/core2 1t

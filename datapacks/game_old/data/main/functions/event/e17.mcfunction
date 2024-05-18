@@ -1,0 +1,2 @@
+title @a title [{"text":"神的制裁","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+execute as @a[scores={money=200..}] at @s run effect give @a[scores={money=200..}] minecraft:blindness 20 0 true

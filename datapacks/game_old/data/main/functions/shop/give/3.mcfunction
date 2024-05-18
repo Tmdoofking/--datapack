@@ -1,0 +1,2 @@
+give @a[scores={shop=3,money=35..}] iron_leggings{HideFlags:2,display:{Name:"[{\"text\":\"§6鐵製護腿\"}]",Lore:["\"§6+25%盔甲值\"","\"§6+25%盔甲韌性\""]},AttributeModifiers:[{Slot:"legs",AttributeName:"generic.armor",Name:"generic.armor",Amount:0.25,Operation:1,UUIDLeast:1579439140,UUIDMost:1579439140},{Slot:"legs",AttributeName:"generic.armorToughness",Name:"generic.armorToughness",Amount:0.25,Operation:1,UUIDLeast:1579439139,UUIDMost:1579439139}]} 1
+scoreboard players remove @a[scores={shop=3,money=35..}] money 35

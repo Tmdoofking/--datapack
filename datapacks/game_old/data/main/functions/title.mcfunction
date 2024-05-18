@@ -1,0 +1,2 @@
+execute as @a[scores={title=1}] run title @s actionbar ["",{"text":"\u4f60\u7684\u91d1\u9322:","color":"gold"},{"text":" "},{"score":{"name":"@s","objective":"money"},"color":"red"}]
+scoreboard players reset @a[scores={title=1..}] title 

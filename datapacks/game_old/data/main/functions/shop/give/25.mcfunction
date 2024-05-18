@@ -1,0 +1,2 @@
+give @a[scores={shop=25,money=50..}] golden_axe{Unbreakable:1,HideFlags:7,display:{Name:"[{\"text\":\"§6裝備破壞斧\"}]",Lore:["\"§6消失詛咒\"","\"§6可以進行連砍\"","\"§6靠近你六格的非友方生物不會受到傷害\""]},AttributeModifiers:[{Slot:"mainhand",AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:1024,Operation:0,UUIDLeast:1580146867,UUIDMost:1580146867}],Enchantments:[{id:"minecraft:vanishing_curse",lvl:10}]} 1
+scoreboard players remove @a[scores={shop=25,money=50..}] money 50

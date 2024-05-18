@@ -1,0 +1,3 @@
+bossbar set minecraft:boss name "超巨人"
+execute in minecraft:the_end run summon minecraft:giant 0 10 0 {CustomName:"[{\"text\":\"超巨人\",\"color\":\"dark_green\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]",Tags:["boss"],CustomNameVisible:1b,PersistenceRequired:1b,Health:125,Passengers:[{Tags:["boss"],PersistenceRequired:1b,Health:150,Attributes:[{Name:"generic.maxHealth",Base:150},{Name:"generic.followRange",Base:150}],SpellTicks:4,id:"minecraft:evoker"}],Attributes:[{Name:"generic.maxHealth",Base:125}]}
+bossbar set minecraft:boss max 125

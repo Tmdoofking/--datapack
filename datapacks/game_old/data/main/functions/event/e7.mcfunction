@@ -1,0 +1,2 @@
+title @a title [{"text":"i believe i can fly","color":"white","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+effect give @a[gamemode=!spectator] minecraft:levitation 5 9

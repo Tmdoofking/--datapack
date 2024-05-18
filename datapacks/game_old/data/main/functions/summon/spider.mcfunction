@@ -1,0 +1,2 @@
+summon minecraft:spider 12624 8 1032 {CustomName:"[{\"text\":\"§7滴都 (20$)\"}]",CustomNameVisible:1,Health:30f,Attributes:[{Name:generic.maxHealth,Base:30f}],Tags:["money"]}
+schedule function main:summon/spider 25s

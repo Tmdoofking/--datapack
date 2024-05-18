@@ -1,0 +1,2 @@
+title @a title [{"text":"無敵時間","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+effect give @e[type=!minecraft:armor_stand,gamemode=!spectator] minecraft:resistance 10 7 true
